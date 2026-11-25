@@ -1,8 +1,19 @@
 {
  "2615704": {
   "name": "ComradeD",
-  "last_check": "2026-11-25 22:54:37",
-  "offers": {},
+  "last_check": "2026-11-25 23:44:43",
+  "offers": {
+   "2615704-16-173-13186-0": {
+    "id": "2615704-16-173-13186-0",
+    "section": "Божественные сферы Path of Exile",
+    "server": "(PC) Covens of Umbra",
+    "price": 3.02,
+    "currency": "₽",
+    "qty": 600.0,
+    "first_seen": "2026-11-25 23:44:43",
+    "last_seen": "2026-11-25 23:44:43"
+   }
+  },
   "daily": {
    "2026-11-21": {
     "qty": 500.0,
@@ -16,7 +27,7 @@
  },
  "173106": {
   "name": "Skullxbasher",
-  "last_check": "2026-11-25 22:54:37",
+  "last_check": "2026-11-25 23:44:43",
   "offers": {},
   "daily": {}
  }
